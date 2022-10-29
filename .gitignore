@@ -1,0 +1,8 @@
+server_log.txt
+crashinfo.txt
+server.cfg
+srp_db.ini
+logs/
+scriptfiles/tde/*
+scriptfiles/SERVER/*
+gamemodes/src/*.amx
