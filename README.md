@@ -26,4 +26,4 @@ cabe aclarar que si lo subes a un host deberas crear un dictamen especial llamad
 *Ejemplo en un Host*
 
 
-[![example3.png](https://i.postimg.cc/76c6HsWd/example3.png)](https://postimg.cc/bDx8LT89)
+[![example4.png](https://i.postimg.cc/44PssNYt/example4.png)](https://postimg.cc/PNCBMHzr)
