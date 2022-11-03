@@ -9,10 +9,7 @@ es un buen proyectaso muy completo que facilmente te puede conducir al exito en 
 *Ya dentro debemos modificar los siguientes parametros
 
 *Esto es lo que saldra dentro del archivo*
-hostname = localhost
-username = root
-database = mibd
-auto_reconnect = false
+[![example1.png](https://i.postimg.cc/Vk5VMKGD/example1.png)](https://postimg.cc/PCsynQkw)
 
 Nosotros lo que haremos sera cambiar estos datos por los de nuestra base de datos
 sencillo hostname lo dejaremos asi, username es root(si esta por defecto osea si no cambiaste nada y dejaste el xampp como viene normal)
@@ -20,14 +17,7 @@ en database pondremos el nombre de nuestra base de datos.
 cabe aclarar que si lo subes a un host deberas crear un dictamen especial llamado password = TUCONTRASEÑA
 
 *Ejemplo en LocalHost*
-hostname = localhost
-username = root
-database = ServerBasedatos
-auto_reconnect = false
+[![example2.png](https://i.postimg.cc/zX4ntpDd/example2.png)](https://postimg.cc/ykXgWmZ9)
 
 *Ejemplo en un Host*
-hostname = localhost
-username = USUARIO_BD_DE_TU_HOST
-database = Base
-passowrd = CONTRASEÑA_BD_DE_TU_HOST
-auto_reconnect = false
+[![example3.png](https://i.postimg.cc/76c6HsWd/example3.png)](https://postimg.cc/bDx8LT89)
