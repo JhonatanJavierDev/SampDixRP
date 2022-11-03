@@ -9,6 +9,8 @@ es un buen proyectaso muy completo que facilmente te puede conducir al exito en 
 *Ya dentro debemos modificar los siguientes parametros
 
 *Esto es lo que saldra dentro del archivo*
+
+
 [![example1.png](https://i.postimg.cc/Vk5VMKGD/example1.png)](https://postimg.cc/PCsynQkw)
 
 Nosotros lo que haremos sera cambiar estos datos por los de nuestra base de datos
@@ -17,7 +19,11 @@ en database pondremos el nombre de nuestra base de datos.
 cabe aclarar que si lo subes a un host deberas crear un dictamen especial llamado password = TUCONTRASEÑA
 
 *Ejemplo en LocalHost*
+
+
 [![example2.png](https://i.postimg.cc/zX4ntpDd/example2.png)](https://postimg.cc/ykXgWmZ9)
 
 *Ejemplo en un Host*
+
+
 [![example3.png](https://i.postimg.cc/76c6HsWd/example3.png)](https://postimg.cc/bDx8LT89)
