@@ -1011,7 +1011,7 @@ new work_info[][work_info_info] =
 	{WORK_TYPE_NONE, 0, "ninguno",					false, 0, 0, 0,			0, 0, 0, 0},
 	{WORK_TYPE_NORMAL, 1, "taxista",				false, 0, 0, 0,			0, 0, 0, 0},
 	{WORK_TYPE_NORMAL, 1, "camionero",				false, 0, 50, 1300,		15000, 10000, 3000, 1},
-	{WORK_TYPE_FAMILY, 0, "vinewood garages",		true, 5000, 1, 0,		20000, 3000, 1000, 0},
+	{WORK_TYPE_FAMILY, 0, "Los Santos garages",		true, 5000, 1, 0,		20000, 3000, 1000, 0},
 	{WORK_TYPE_NORMAL, 1, "cosechador",				false, 20, 30, 800,		20000, 3000, 1000, 0},
 	{WORK_TYPE_NORMAL, 4, "fumigador",				false, 20, 30, 800,		20000, 3000, 1000, 0},
 	{WORK_TYPE_NORMAL, 1, "basurero", 				true, 60, 50, 2000,		20000, 3000, 1000, 0},
@@ -7713,7 +7713,7 @@ CreateTextDraws() // Text Draws
 	TextDrawFont(Textdraws[textdraw_LOAD_SCREEN][0], 1);
 	TextDrawSetProportional(Textdraws[textdraw_LOAD_SCREEN][0], 1);
 
-	Textdraws[textdraw_LOAD_SCREEN][1] = TextDrawCreate(467.127166, 76.000045, "VINE~w~WOOD");
+	Textdraws[textdraw_LOAD_SCREEN][1] = TextDrawCreate(467.127166, 76.000045, "SAMP~w~DIX");
 	TextDrawLetterSize(Textdraws[textdraw_LOAD_SCREEN][1], 1.210067, 5.524159);
 	TextDrawTextSize(Textdraws[textdraw_LOAD_SCREEN][1], 23.000000, 0.000000);
 	TextDrawAlignment(Textdraws[textdraw_LOAD_SCREEN][1], 3);
@@ -7724,7 +7724,7 @@ CreateTextDraws() // Text Draws
 	TextDrawFont(Textdraws[textdraw_LOAD_SCREEN][1], 2);
 	TextDrawSetProportional(Textdraws[textdraw_LOAD_SCREEN][1], 1);
 
-	Textdraws[textdraw_LOAD_SCREEN][2] = TextDrawCreate(420.273956, 216.302917, "VINE~w~WOOD");
+	Textdraws[textdraw_LOAD_SCREEN][2] = TextDrawCreate(420.273956, 216.302917, "SAMP~w~DIX");
 	TextDrawLetterSize(Textdraws[textdraw_LOAD_SCREEN][2], 0.837374, 4.182501);
 	TextDrawTextSize(Textdraws[textdraw_LOAD_SCREEN][2], 18.000000, 0.000000);
 	TextDrawAlignment(Textdraws[textdraw_LOAD_SCREEN][2], 3);
